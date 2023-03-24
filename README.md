@@ -1,4 +1,5 @@
 # Curriculo-Online
+![image](https://user-images.githubusercontent.com/73564732/227651892-a1ff9190-668c-4cdc-912f-936070645e8f.png)
 
 
 # Tecnologias utlizada :
